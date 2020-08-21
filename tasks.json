@@ -1,0 +1,1 @@
+{"tasks":[{"type":"Task","title":"Milk","description":"Get some milk","categoryIndex":0,"completed":false},{"type":"Task","title":"Bread","description":"","categoryIndex":0,"completed":false},{"type":"Task","title":"Vacuum","description":"","categoryIndex":1,"completed":false}],"categories":["Grocery","Household","hello","Schoolwork","Misc"]}
